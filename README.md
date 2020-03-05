@@ -1,1 +1,1 @@
-# api_ecredit
+# Партнерское API eCredit
