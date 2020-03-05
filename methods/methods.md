@@ -4,6 +4,6 @@
 
 Редактировать список ролей пользователя
 
-[Request_EditUserAccess](Request_EditUserRole.md)
+[Request_EditUserAccess](Request_EditUserAccess.md)
 
 Редактировать список дилеров, к которым пользователь имеет доступ
