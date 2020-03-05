@@ -8,29 +8,29 @@
 Список дилеров
 
 Если `change_dealer_id` не будет задан, то метод вернет список дилеров, к которым имеет доступ изменяемый пользователь
-```json
+```
 {
-response: {
-dealers: [
-{
-ecredit_dealer_id: 155,
-dealer_id: null
-},
-{
-ecredit_dealer_id: 158,
-dealer_id: null
-},
-{
-ecredit_dealer_id: 437,
-dealer_id: null
-}
-],
-count_added: 0,
-not_valid_dealers: [ ]
-},
-error_code: 200,
-error_text: "Ok",
-id: "5e60be6569d2e"
+  "error_code":200,
+  "error_text":"Ok",
+  "id":"5e60be6569d2e",
+  "response":{
+      "dealers":[
+          {
+            "ecredit_dealer_id":155,
+            "dealer_id":null
+          },
+          {
+            "ecredit_dealer_id":158,
+            "dealer_id":null
+          },
+          {
+            "ecredit_dealer_id":437,
+            "dealer_id":null
+          }
+        ],
+        "count_added":0,
+        "not_valid_dealers":{}
+  }
 }
 ```
 
